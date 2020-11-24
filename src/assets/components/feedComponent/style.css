@@ -1,0 +1,13 @@
+#main{
+  width: 100vw
+}
+
+#feed{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+#post{
+  margin-left: 20px;
+}

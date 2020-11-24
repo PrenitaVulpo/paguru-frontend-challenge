@@ -1,0 +1,26 @@
+:root {
+  --color-background: #ece9e9;
+  --color-background-dark: #cec0c0;
+  --color-background-darker: #9e9191;
+  --color-primary: #0091ad;
+  --color-primary-light: #579caa;
+  --color-primary-lighter: #85ebff;
+  --color-secundary: #8fe329;
+  --color-secundary-light: #96c959;
+  --color-secundary-lighter: #d0f3a5;
+  --color-text: #E3450C;
+  --color-shadow: #5A5A5A;
+  --color-gradient-1: #FF8177;
+  --color-gradient-2: #FF8C7F;
+  --color-gradient-3: #F99185;
+  --color-gradient-4: #CF556C;
+  --color-gradient-5: #B12A5B;
+
+  font: 400 18px Roboto, sans-serif;
+  
+
+
+  background: linear-gradient(to right, var(--color-gradient-1), var(--color-gradient-2)
+  , var(--color-gradient-3), var(--color-gradient-4), var(--color-gradient-5));
+
+}
